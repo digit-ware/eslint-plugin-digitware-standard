@@ -1,6 +1,6 @@
 {
   "name": "@digit-ware/eslint-plugin-digitware-standard",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Digitware Standard Rules",
   "main": "lib/index.js",
   "directories": {
